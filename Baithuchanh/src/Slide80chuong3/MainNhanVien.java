@@ -4,7 +4,7 @@ public class MainNhanVien {
     public static void main(String[] args) {
         NhanVienFullTime sep = new NhanVienFullTime("Nguyen Van Sep");
         sep.setLoaiChucVu(Configs.NHAN_VIEN_SEP);
-        NhanVienFullTime linh1 = new NhanVienFullTime("Nguyen Thi Linh", );
+        NhanVienFullTime linh1 = new NhanVienFullTime("Nguyen Thi Linh", 5);
         linh1.setLoaiChucVu(Configs.NHAN_VIEN_LINH);
         NhanVienFullTime linh2 = new NhanVienFullTime("Tran Van Linh");
         linh2.setLoaiChucVu(Configs.NHAN_VIEN_LINH);

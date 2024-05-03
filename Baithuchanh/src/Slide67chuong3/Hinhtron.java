@@ -5,3 +5,4 @@ public class Hinhtron {
         System.out.println("Day la Hinh Tron");
     }
 }
+S
