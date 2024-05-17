@@ -16,7 +16,7 @@ public class Slide88chuong4 {
         System.out.println("ND: " + hashMapCity.get("ND"));
 
         System.out.println("BD: " + hashMapCity.get("BD"));
-        if (hashMapCity.containsValue("HN")) {
+        if (hashMapCity.containsValue("Thanh pho Da Nang")) {
             System.out.println("Co thanh pho Da Nang trong hashMapCity");
         }
     }
